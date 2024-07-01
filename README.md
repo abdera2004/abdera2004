@@ -1,10 +1,10 @@
-### Olá, sou o Ruan 😃
+## Olá, sou o Ruan 😃
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruansantossla/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruan_sant0s7/?next=%2F)
 
 ![abdera2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdera2004&show_icons=true&theme=radical)
 
-### Tecnologias
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,4 +21,6 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div>
+</div><br>
+
+### Estou sempre buscando aprender novas tecnologias, e aperfeiçoar o que já sei.
